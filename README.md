@@ -119,6 +119,6 @@ Now that the Contra module is installed, it can be imported in any .py python fi
 [issues-shield]: https://github.com/styvio/Contra.svg?style=for-the-badge
 [issues-url]: https://github.com/styvio/Contra/issues
 [license-shield]: https://github.com/styvio/Contra.svg?style=for-the-badge
-[license-url]: https://github.com/styvio/Contra/blob/main/LICENSE
+[license-url]: https://github.com/styvio/Contra/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/styvio
