@@ -24,9 +24,9 @@
     <br />
     <a href="#get-started">How to Use</a>
     ·
-    <a href="https://github.com/Styvio-com/Contra/issues">Report Bug</a>
+    <a href="https://github.com/styvio/Contra/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Styvio-com/Contra/issues">Request Feature</a>
+    <a href="https://github.com/styvio/Contra/issues">Request Feature</a>
   </p>
 </p>
 
@@ -52,7 +52,7 @@
       </ul>
     </li>
     <li><a href="">PyPi Module Page</a></li>
-    <li><a href="https://github.com/Styvio-com/Contra/blob/main/LICENSE.txt">License</a></li>
+    <li><a href="https://github.com/styvio/Contra/blob/main/LICENSE.txt">License</a></li>
     <li><a href = "https://twitter.com/Styvioapp">Contact</a></li>
   </ol>
 </details>
@@ -110,16 +110,15 @@ Now that the Contra module is installed, it can be imported in any .py python fi
   <img src="images/blackLogo.png" data-canonical-src="images/blackLogo.png" width="200" height="200"/>
 </a>
 
-[contributors-shield]: https://img.shields.io/github/contributors/Styvio-com/Contra.svg?style=for-the-badge
-[contributors-url]: https://github.com/Styvio-com/Contra/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Styvio-com/Contra.svg?style=for-the-badge
-[forks-url]: https://github.com/Styvio-com/Contra/network/members
-[stars-shield]: https://img.shields.io/github/stars/Styvio-com/Contra.svg?style=for-the-badge
-[stars-url]: https://github.com/Styvio-com/Contra/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Styvio-com/Contra.svg?style=for-the-badge
-[issues-url]: https://github.com/Styvio-com/Contra/issues
-[license-shield]: https://img.shields.io/github/license/Styvio-com/Contra.svg?style=for-the-badge
-[license-url]: https://github.com/Styvio-com/Contra/blob/main/LICENSE.txt
+[contributors-shield]: https://github.com/styvio/Contra.svg?style=for-the-badge
+[contributors-url]: https://github.com/styvio/Contra/graphs/contributors
+[forks-shield]: https://github.com/styvio/Contra.svg?style=for-the-badge
+[forks-url]: https://github.com/styvio/Contra/network/members
+[stars-shield]: https://github.com/styvio/Contra.svg?style=for-the-badge
+[stars-url]: https://github.com/styvio/Contra/stargazers
+[issues-shield]: https://github.com/styvio/Contra.svg?style=for-the-badge
+[issues-url]: https://github.com/styvio/Contra/issues
+[license-shield]: https://github.com/styvio/Contra.svg?style=for-the-badge
+[license-url]: https://github.com/styvio/Contra/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/styvio
-[product-screenshot]: images/APIpage.PNG
