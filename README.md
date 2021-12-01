@@ -1,4 +1,4 @@
-[![GitHub contributors](https://img.shields.io/github/styvio/Contra.svg)](https://GitHub.com/styvio/Contra/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/styvio/Contra.svg)](https://GitHub.com/styvio/Contra/contributors/)
 [![GitHub forks](https://badgen.net/github/forks/styvio/Contra)](https://GitHub.com/styvio/Contra/network/)
 [![GitHub stars](https://badgen.net/github/stars/styvio/Contra)](https://GitHub.com/styvio/Contra/stargazers/)
 [![GitHub issues](https://img.shields.io/github/issues/styvio/Contra.svg)](https://github.com/styvio/Contra/issues)
