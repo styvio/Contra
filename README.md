@@ -2,7 +2,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![GitHub issues](https://img.shields.io/github/issues/styvio/Contra.svg)](https://github.com/styvio/Contra/issues)
-[![MIT License][license-shield]][license-url]
+[![MIT License](https://img.shields.io/styvio/Contra.svg)](https://github.com/styvio/Contra/blob/main/LICENSE)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -115,7 +115,5 @@ Now that the Contra module is installed, it can be imported in any .py python fi
 [forks-url]: https://github.com/styvio/Contra/network/members
 [stars-shield]: https://github.com/styvio/Contra.svg?style=for-the-badge
 [stars-url]: https://github.com/styvio/Contra/stargazers
-[license-shield]: https://img.shields.io/pypi/l/ansicolortags.svg
-[license-url]: https://github.com/styvio/Contra/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/styvio
