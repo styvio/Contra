@@ -1,5 +1,5 @@
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
+[![GitHub forks](https://badgen.net/github/forks/styvio/Contra)](https://GitHub.com/styvio/Contra/network/)
 [![GitHub stars](https://badgen.net/github/stars/styvio/Contra)](https://GitHub.com/styvio/Contra/stargazers/)
 [![GitHub issues](https://img.shields.io/github/issues/styvio/Contra.svg)](https://github.com/styvio/Contra/issues)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/styvio/Contra/blob/main/LICENSE)
@@ -111,8 +111,6 @@ Now that the Contra module is installed, it can be imported in any .py python fi
 
 [contributors-shield]: https://github.com/styvio/Contra.svg?style=for-the-badge
 [contributors-url]: https://github.com/styvio/Contra/graphs/contributors
-[forks-shield]: https://github.com/styvio/Contra.svg?style=for-the-badge
-[forks-url]: https://github.com/styvio/Contra/network/members
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/styvio
