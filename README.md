@@ -2,7 +2,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![GitHub issues](https://img.shields.io/github/issues/styvio/Contra.svg)](https://github.com/styvio/Contra/issues)
-[![MIT License](https://img.shields.io/styvio/Contra.svg)](https://github.com/styvio/Contra/blob/main/LICENSE)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
