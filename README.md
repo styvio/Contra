@@ -1,7 +1,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![GitHub issues](https://img.shields.io/github/issues/styvio/contra.js.svg)](https://github.com/styvio/Contra/issues)
+[![GitHub issues](https://img.shields.io/github/issues/styvio/Contra.svg)](https://github.com/styvio/Contra/issues)
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
