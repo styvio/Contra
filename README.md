@@ -96,7 +96,7 @@ This section provides assistance on how to install Contra, as well as a general 
 ### Installation
 
  ```
-pip install Contra
+pip install Contra (coming soon)
 ```
 <div id="quickstart"></div>
 
