@@ -4,7 +4,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
 <!-- PROJECT LOGO -->
@@ -118,7 +117,7 @@ Now that the Contra module is installed, it can be imported in any .py python fi
 [stars-url]: https://github.com/styvio/Contra/stargazers
 [issues-shield]: https://github.com/styvio/Contra.svg?style=for-the-badge
 [issues-url]: https://github.com/styvio/Contra/issues
-[license-shield]: https://github.com/styvio/Contra.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/pypi/l/ansicolortags.svg
 [license-url]: https://github.com/styvio/Contra/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/styvio
