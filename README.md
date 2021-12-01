@@ -1,9 +1,9 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/styvio/Contra.svg)](https://GitHub.com/styvio/Contra/contributors/)
 [![GitHub forks](https://badgen.net/github/forks/styvio/Contra)](https://GitHub.com/styvio/Contra/network/)
+[![GitHub watchers](https://badgen.net/github/watchers/styvio/Contra)](https://GitHub.com/styvio/Contra/watchers/)
 [![GitHub stars](https://badgen.net/github/stars/styvio/Contra)](https://GitHub.com/styvio/Contra/stargazers/)
 [![GitHub issues](https://img.shields.io/github/issues/styvio/Contra.svg)](https://github.com/styvio/Contra/issues)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/styvio/Contra/blob/main/LICENSE)
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
@@ -108,7 +108,3 @@ Now that the Contra module is installed, it can be imported in any .py python fi
 <a href="https://www.styvio.com/">
   <img src="images/blackLogo.png" data-canonical-src="images/blackLogo.png" width="200" height="200"/>
 </a>
-
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/company/styvio
