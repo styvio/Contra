@@ -63,7 +63,7 @@
 
 <div id="about-the-project"></div>
 
-Welcome to Contra, a fully open source AI engine developed by Styvio.  Contra is a lightweight, production ready alternative to Tensorflow.  Contra is written fully in Python and built to solve complex problems with AI.  Contra is built specifically to solve time series prediction problems, server or client side.
+Welcome to Contra, a fully open source AI engine developed by Styvio.  Contra is a lightweight, production ready alternative to Tensor Flow.  Contra is written fully in Python and built to solve complex problems with AI.  Contra is built specifically to solve time series prediction problems, server or client side.
 
 <div id="what"></div>
 
@@ -75,13 +75,13 @@ Contra is a collections of functions that allow you to solve complex time series
 
 ### Why does Contra exist?
 
-Other AI engines or libraries can sometimes take minutes to run, and produce weights files that are far to large to run directly on a production website.  It is frusterating having to perform complex calculations off-server and then to sending the results over to a database via an API.  It is equally frusterating having weights files that are over 0.5 GB large.  These challenges make libraries like Tensorflow useless in solving complex problems fast.  Using tensorflow for time series prediction is like attatching a V8 engine to a lawn mower.  We have become far too farmiliar with these challenges, and built Contra to erase this headache.
+Other AI engines or libraries can sometimes take minutes to run, and produce weights files that are far to large to run directly on a production website.  It is frustrating having to perform complex calculations off-server and then to sending the results over to a database via an API.  It is equally frustrating having weights files that are over 0.5 GB large.  These challenges make libraries like Tensor Flow useless in solving complex problems fast.  Using Tensor Flow for time series prediction is often overcomplicating the problem.
 
 <div id="how"></div>
 
 ### How can I use Contra?
 
-You can use Contra anywhere you need to solve a complex problem with AI.  Contra can be applied anywhere annalysis of time series data using AI prediction makes sense.   Contra comes with the MIT liscence, meaning you can use it for personal and commercial projects without worying about liscence fees, giving credit, or litigation.
+You can use Contra anywhere you need to solve a complex problem with AI.  Contra can be applied anywhere analysis of time series data using AI prediction makes sense.   Contra comes with the MIT license, meaning you can use it for personal and commercial projects without worrying about license fees, giving credit, or litigation.
 
 <!-- GETTING STARTED -->
 <div id="get-started"></div>
