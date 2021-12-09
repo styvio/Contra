@@ -81,7 +81,7 @@ Other AI engines or libraries can sometimes take minutes to run, and produce wei
 
 ### How can I use Contra?
 
-You can use Contra anywhere you need to solve a complex problem with AI.  Contra can be applied anywhere analysis of time series data using AI prediction makes sense.   Contra comes with the MIT license, meaning you can use it for personal and commercial projects without worrying about license fees, giving credit, or litigation.
+You can use this anywhere you need to solve a complex problem with AI.  Contra can be applied anywhere analysis of time series data using AI prediction makes sense.   Contra comes with the MIT license, meaning you can use it for personal and commercial projects without worrying about license fees, giving credit, or litigation.
 
 <!-- GETTING STARTED -->
 <div id="get-started"></div>
